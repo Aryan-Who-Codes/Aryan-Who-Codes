@@ -2,7 +2,12 @@
 
 #### A Full stack Developer
 
+    width: -webkit-fill-available;
+
 ![A Full stack Developer](https://github.com/Aryan-Who-Codes/Aryan-Who-Codes/assets/115602437/3641812c-5b0f-465f-9ec8-5762dd6ad667)
+
+<img src="https://github.com/Aryan-Who-Codes/Aryan-Who-Codes/blob/main/assets/115602437/3641812c-5b0f-465f-9ec8-5762dd6ad667" alt="A Full Stack Developer">
+
 
 Software Developer based in India, specializing in technical education through hands-on learning and application development.
 
