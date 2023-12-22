@@ -10,6 +10,9 @@
 
 > Software Developer based in India, specializing in technical education through hands-on learning and application development.
 
+#### About Me
+
+
 
 #### What I Do ?
 
