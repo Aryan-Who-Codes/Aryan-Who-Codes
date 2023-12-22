@@ -6,45 +6,52 @@
   <h3>Hi 👋, I'm Aryan</h3>
 </div>
 
-#### A Full Stack Developer
+### A Full Stack Developer
 
-> Software Developer based in India, specializing in technical education through hands-on learning and application development.
-
-#### About Me
+I'm a digital dreamer who turns ideas into reality with lines of code. Based in India, I specialize in technical education through hands-on learning and application development. [Find Me](https://sam-folio.vercel.app/)
 
 
-
-#### What I Do ?
+### What I Do ?
 
 - 🌱 I’m currently learning Different JavaScript Frameworks.
 - 👯 I’m looking to collaborate on JavaScript and python projects.
 - 💬 Ask me about JS and Python Frameworks.
 
-#### Skills and Experience
+### Skills and Experience
 
 * ⚛️ React
 * 📱 React Native
 * 🐍 Python
 * 💻 HTML, CSS, JS
   
-#### Guided various projects to accomplishment throughout my journey. Curious about the impact?
+### Guided various projects to accomplishment throughout my journey. Curious about the impact?
 
-🦑 **Project 1:** "themellowcoder" (In-Development) - MERN Stack, More than just a coding community platform! themellowcoder with it's rich features such as OctoAI, Mellow Tunes, Discussion, Exploration, Plan A Code, Create stories and much more. Created with MERN & love.
-> [Check it out](https://themellowcoder.vercel.app/)
+🦑 **Project 1:** "themellowcoder" (In-Development) 
+- MERN Stack
+- More than just a coding community platform!
+- Rich features such as OctoAI, Mellow Tunes, Discussion, Exploration, Plan A Code, Create stories, and more.
+- Created with MERN & love.
+> *Private Repository*
 
-<br />
+<br/>
 
-👨🏻‍💻 **Project 2:** "sam-folio" - React, Personal portfolio website with many functionalities, fully dynamic!
+👨🏻‍💻 **Project 2:** "sam-folio"
+- React
+- Personal portfolio website with many functionalities, fully dynamic!
 > [Check it out](https://sam-folio.vercel.app/)
 
-### For any inquiries or collaboration opportunities, please feel free to reach out to me via the following channels:
+### Let's Talk
 
-🏝️ [Website](https://sam-folio.vercel.app)
+#### For any inquiries or collaboration opportunities, feel free to reach out to me via the following channels:
 
-📧 [Email](mailto:aryanmay0305@gmail.com)  
+- 🏝️ [Website](https://sam-folio.vercel.app)
 
-💼 [LinkedIn](https://www.linkedin.com/in/aryan-who-codes/)  
+- 📧 [Email](mailto:aryanmay0305@gmail.com)  
 
-Don't forget to check out my repositories and projects. Your feedback, suggestions, and collaborations are always welcome!
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-who-codes/)  
 
-Thank you for visiting my GitHub profile. Let's create something amazing together! ✨
+---
+
+###### Don't forget to check out my repositories and projects. Your feedback, suggestions, and collaborations are always welcome!
+
+###### Thank you for visiting my GitHub profile. Let's create something amazing together! ✨
