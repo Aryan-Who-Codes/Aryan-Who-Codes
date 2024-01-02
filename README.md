@@ -40,6 +40,14 @@ I'm a digital dreamer who turns ideas into reality with lines of code. Based in 
 - Personal portfolio website with many functionalities, fully dynamic!
 > [Check it out](https://sam-folio.vercel.app/)
 
+<br/>
+
+👨🏻‍💻 **Project 3:** "COS"
+- Developing and maintaining web applications using Html, CSS and Javascript.
+- Collaborating with cross-functional teams including designers, devs and other developers to create high-quality projects.
+- Participating in code reviews and providing constructive feedback to other team members.
+> [Check it out](https://github.com/Aryan-Who-Codes/COS)
+
 ### Let's Talk
 
 #### For any inquiries or collaboration opportunities, feel free to reach out to me via the following channels:
