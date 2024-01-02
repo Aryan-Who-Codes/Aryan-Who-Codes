@@ -31,7 +31,7 @@ I'm a digital dreamer who turns ideas into reality with lines of code. Based in 
 - More than just a coding community platform!
 - Rich features such as OctoAI, Mellow Tunes, Discussion, Exploration, Plan A Code, Create stories, and more.
 - Created with MERN & love.
-> *Private Repository*
+> [Check it out](https://themellowcoder.vercel.app/)
 
 <br/>
 
